@@ -5,7 +5,6 @@ reports, vote and comment. No database - everything is stored in plain JSON
 files on your own server.
 
 ![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?logo=php&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-3da639)
 ![Storage](https://img.shields.io/badge/storage-JSON%20files-f59e0b)
 ![Auth](https://img.shields.io/badge/auth-Discord%20OAuth2-5865F2?logo=discord&logoColor=white)
 ![Server](https://img.shields.io/badge/server-nginx%20%7C%20Apache-009639?logo=nginx&logoColor=white)
