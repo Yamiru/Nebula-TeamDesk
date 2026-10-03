@@ -11,7 +11,6 @@ files on your own server.
 ![i18n](https://img.shields.io/badge/i18n-15%20languages-06b6d4)
 
 ## Where to buy
-https://builtbybit.com/resources/nebula-teamdesk.113704/
 
 https://www.codester.com/items/67132/nebula-teamdesk
 
